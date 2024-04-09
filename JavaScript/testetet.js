@@ -1,0 +1,1 @@
+// funcoes de entrada de dados so podem ser utilizadas em junção ao html,aparenetmente []
